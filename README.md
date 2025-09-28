@@ -1,4 +1,4 @@
-# Stealth — Kali helper tool
+# Stealth — Kali terminal tool
 
 **Stealth** is a compact, menu-driven Python script for Kali Linux that helps automate a few common operations:
 
