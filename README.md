@@ -1,6 +1,6 @@
 # Stealth — Kali helper tool
 
-**Stealth** is a compact, menu-driven Python script for Kali Linux that helps automate a few common lab operations:
+**Stealth** is a compact, menu-driven Python script for Kali Linux that helps automate a few common operations:
 
 - Put a wireless adapter into **monitor mode** (via `airmon-ng` or `iw`)
 - **Spoof MAC** addresses (via `macchanger` or `ip link`)
